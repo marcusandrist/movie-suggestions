@@ -1,0 +1,84 @@
+AI-Movie-Suggestions 🤖
+=======================
+> The overarching design of this product focuses on delivering a robust, sustainable deployed
+> web application for discovering new media including shows & movies
+### [Deployed site (to be) for AI movie suggestions!](https://localhost:3050/)
+
+![Latest Built Status](insertgithubactionsbadgehere)
+
+### Roadmap
+\- Machine Learning model capable of processing data including movie & show titles, reviews, transcripts, and other relevent information  
+\- Fully Deployed Rich Web Application 🌐    
+\- API written in Python 💻    
+\- Model output based on user-provided information including preferences, attributes, and other shows📺    
+\- SQL Database     
+
+
+
+### Init File Structure
+└── ai-movie-suggestions
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── back-end
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── src
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── test
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── front-end
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ├── assets
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── components
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ├── layouts
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ├── test
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── utils
+
+### Tech
+
+*******AI-Movie-Suggestions uses a number of libraries and frameworks to work properly:*******
+- [Flask]() - Python Framework for web applications 🌎
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Comprehense JavaScript Guides and tools 📚
+- [MACHINE LEARNING HERE] - Lorem Ipsum I'm a description
+- [MACHINE LEARNING HERE] - Lorem Ipsum I'm a description
+- [VIM Motions Guide](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - Great guide on VIM Motions from [ThePrimeAgen](https://github.com/ThePrimeagen) ⌨️
+- [Dillinger](https://dillinger.io/) - Markdown editor 📝
+
+### Local Deployment
+
+Initalize Venv install the dependencies and devDependencies from requirements.txt for back-end (assuming cloned from remote)
+
+```sh
+cd back-end
+python3 -m venv [venvname]
+source [venvname]/bin/activate
+pip(3) install -r requirements.txt
+```
+
+Install dependencies and devDependencies from package.json for front-end
+
+```sh
+cd front-end
+npm install
+```
+
+Setup SQL database
+```sh
+TO-DO*
+TO-DO*
+```
+
+Run Application using Linux script (default hostname: http://localhost:3050/)
+```sh
+./start.sh
+```
+
+### Data Base table formats (TO-DO)
+
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Example | Table | Example | Feature | Example Foreign |
+| ------ | ------ | ------ | ------ | ------ |
+| Example Key | Example Data | Example Data | Example Feature | Example Foreign Key |
+| Example Key | Example Data | Example Data | Example Feature | Example Foreign Key |
+| Example Key | Example Data | Example Data | Example Feature | Example Foreign Key |
+
+
+### License
+
+MIT License
+
