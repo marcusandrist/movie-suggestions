@@ -13,21 +13,6 @@ AI-Movie-Suggestions 🤖
 \- Model output based on user-provided information including preferences, attributes, and other shows📺    
 \- SQL Database     
 
-### Init File Structure
-```
-├── LICENSE
-├── README.md
-├── back-end
-│   ├── src
-│   └── test
-└── front-end
-    ├── assets
-    ├── components
-    ├── layouts
-    ├── test
-    └── utils
-```
-
 ### Tech
 
 *******AI-Movie-Suggestions uses a number of libraries and frameworks to work properly:*******
