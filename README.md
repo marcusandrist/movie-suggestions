@@ -23,7 +23,7 @@ AI-Movie-Suggestions 🤖
 - [VIM Motions Guide](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - Great guide on VIM Motions from [ThePrimeAgen](https://github.com/ThePrimeagen) ⌨️
 - [Dillinger](https://dillinger.io/) - Markdown editor 📝
 
-### Directory Structure Snapshot (7/25/2023)
+### Developer Directory Structure Snapshot (7/25/2023)
 ```
 ├── LICENSE
 ├── README.md
