@@ -2,7 +2,7 @@ AI-Movie-Suggestions 🤖
 =======================
 > The overarching design of this product focuses on delivering a robust, sustainable deployed
 > web application for discovering new media including shows & movies
-### [Deployed site (to be) for AI movie suggestions!](https://localhost:3050/)
+### [Deployed site (to be) for AI movie suggestions!](https://127.0.0.1:5000/)
 
 ![Latest Built Status](insertgithubactionsbadgehere)
 
@@ -22,6 +22,23 @@ AI-Movie-Suggestions 🤖
 - [MACHINE LEARNING HERE] - Lorem Ipsum I'm a description
 - [VIM Motions Guide](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - Great guide on VIM Motions from [ThePrimeAgen](https://github.com/ThePrimeagen) ⌨️
 - [Dillinger](https://dillinger.io/) - Markdown editor 📝
+
+### Directory Structure Snapshot (7/25/2023)
+```
+├── LICENSE
+├── README.md
+├── assets
+│   ├── dev-requirements.txt
+│   └── requirements.txt
+└── server
+    ├── __pycache__
+    │   └── app.cpython-310.pyc
+    ├── app.py
+    └── templates
+        ├── about.html
+        ├── base.html
+        └── index.html
+```
 
 ### Local Deployment
 

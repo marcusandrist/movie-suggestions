@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>{% block title%} {% endblock%} - AI Movie Suggestions</title>
+	<style>
+		nav a {
+			color: #09BC8A;
+			font-size: 3em;
+		}
+	</style>
+</head>
+<body>
+	<nav>
+		<a href="{{ url_for("index") }}">AI Movie Suggestions</a>
+		<a href="{{ url_for("about") }}">About</a>
+	</nav>
+	<hr>
+	<div class="content">
+		{% block content %} {% endblock %}
+	</div>
+</body>
+</html>
