@@ -24,7 +24,7 @@ AI-Movie-Suggestions 🤖
 - [Dillinger](https://dillinger.io/) - Markdown editor 📝    
 ###Front-end-Server Model Diagram
 ![FMODEL!](assets/Front-end-server.png)
-### Developer Directory Structure Snapshot (7/25/2023)
+###Developer Directory Structure Snapshot (7/25/2023)
 ```
 ├── LICENSE
 ├── README.md
