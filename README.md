@@ -22,8 +22,11 @@ AI-Movie-Suggestions 🤖
 - [MACHINE LEARNING HERE] - Lorem Ipsum I'm a description
 - [VIM Motions Guide](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - Great guide on VIM Motions from [ThePrimeAgen](https://github.com/ThePrimeagen) ⌨️
 - [Dillinger](https://dillinger.io/) - Markdown editor 📝    
-###Front-end-Server Model Diagram
-![FMODEL!](assets/Front-end-server.png)
+###Front-end-Server Model Diagram      
+
+![FMODEL!](assets/Front-end-server.png)   
+
+
 ###Developer Directory Structure Snapshot (7/25/2023)
 ```
 ├── LICENSE
