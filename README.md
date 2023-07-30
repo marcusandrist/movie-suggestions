@@ -1,4 +1,4 @@
-AI-Movie-Suggestions 🤖
+Movie-Suggestions 🤖
 =======================
 > The overarching design of this product focuses on delivering a robust, sustainable deployed
 > web application for discovering new media including shows & movies
@@ -7,9 +7,9 @@ AI-Movie-Suggestions 🤖
 ![Latest Built Status](insertgithubactionsbadgehere)
 
 ### Roadmap
-\- Machine Learning model capable of processing data including movie & show titles, reviews, and transcripts 
+\- Model capable of processing data including movie & show titles, reviews, and transcripts 
 \- Fully Deployed Rich Web Application 🌐    
-\- API written in Python 💻    
+\- API written in Python or Java 💻    
 \- Model output based on user-provided information including preferences, attributes, and other shows📺    
 \- SQL Database     
 
@@ -46,13 +46,12 @@ AI-Movie-Suggestions 🤖
 Initalize Venv install the dependencies and devDependencies from requirements.txt for back-end (assuming cloned from remote)
 
 ```sh
-cd back-end
 python3 -m venv [venvname]
 source [venvname]/bin/activate
 pip(3) install -r requirements.txt
 ```
 
-Install dependencies and devDependencies from package.json for front-end
+Install dependencies and devDependencies from package.json for front-end (to-do)
 
 ```sh
 cd front-end
@@ -67,15 +66,12 @@ TO-DO*
 
 Run Application using Linux script (default hostname: http://localhost:3050/)
 ```sh
-./start.sh
+./start.sh (to-do)
 ```
 
 ### Data Base table formats (TO-DO)
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Example | Table | Example | Feature | Example Foreign |
+ Example | Table | Example | Feature | Example Foreign |
 | ------ | ------ | ------ | ------ | ------ |
 | Example Key | Example Data | Example Data | Example Feature | Example Foreign Key |
 | Example Key | Example Data | Example Data | Example Feature | Example Foreign Key |
