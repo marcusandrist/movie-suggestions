@@ -2,7 +2,7 @@ Movie-Suggestions 🤖
 =======================
 > The overarching design of this product focuses on delivering a robust, sustainable deployed
 > web application for discovering new media including shows & movies
-### [Deployed site (to be) for AI movie suggestions!](https://127.0.0.1:5000/)
+### [Deployed site (to be) for movie suggestions!](https://127.0.0.1:5000/)
 
 ![Latest Built Status](insertgithubactionsbadgehere)
 
