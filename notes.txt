@@ -1,0 +1,6 @@
+Sample color pallete
+#74B3CE Carolina blue
+#508991 Blue (Munsell)
+#172A3A Prussian blue
+#004346 Midnight green
+#09BC8A Mint
